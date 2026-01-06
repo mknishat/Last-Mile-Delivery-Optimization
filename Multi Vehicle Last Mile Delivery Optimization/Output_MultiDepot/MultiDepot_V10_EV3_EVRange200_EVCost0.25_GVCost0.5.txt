@@ -1,0 +1,79 @@
+======================================================================
+MULTI-DEPOT VEHICLE ROUTING OPTIMIZATION RESULTS
+======================================================================
+
+CONFIGURATION:
+----------------------------------------
+  num_depots: 3
+  num_vehicles_per_depot: 10
+  num_ev_per_depot: 3
+  ev_range: 200
+  gv_range: 300
+  EV_cost: 0.25
+  GV_cost: 0.5
+
+OVERALL SUMMARY:
+----------------------------------------
+  Total Objective Value: $6200
+  Total Distance: 2931 miles
+  Total Active Vehicles: 19
+
+
+REGION 1 (Depot ID: 4191):
+----------------------------------------
+  Objective: $2299
+  Total Distance: 1163 miles
+
+  Routes:
+    Vehicle 0 (EV): 0 -> 23 -> 29 -> 24 -> 27 -> 0
+      Distance: 195 mi, Cost: $342, Stops: 4
+    Vehicle 1 (EV): 0 -> 30 -> 17 -> 18 -> 22 -> 19 -> 0
+      Distance: 175 mi, Cost: $325, Stops: 5
+    Vehicle 2 (EV): 0 -> 9 -> 7 -> 8 -> 4 -> 6 -> 0
+      Distance: 196 mi, Cost: $361, Stops: 5
+    Vehicle 3 (GV): 0 -> 10 -> 15 -> 16 -> 14 -> 13 -> 12 -> 0
+      Distance: 175 mi, Cost: $406, Stops: 6
+    Vehicle 4 (GV): 0 -> 21 -> 25 -> 26 -> 28 -> 20 -> 0
+      Distance: 175 mi, Cost: $390, Stops: 5
+    Vehicle 6 (GV): 0 -> 2 -> 1 -> 3 -> 5 -> 0
+      Distance: 210 mi, Cost: $394, Stops: 4
+    Vehicle 9 (GV): 0 -> 11 -> 0
+      Distance: 37 mi, Cost: $81, Stops: 1
+
+REGION 2 (Depot ID: 5985):
+----------------------------------------
+  Objective: $2041
+  Total Distance: 936 miles
+
+  Routes:
+    Vehicle 0 (EV): 0 -> 11 -> 4 -> 3 -> 5 -> 0
+      Distance: 184 mi, Cost: $364, Stops: 4
+    Vehicle 1 (EV): 0 -> 17 -> 18 -> 19 -> 20 -> 0
+      Distance: 181 mi, Cost: $349, Stops: 4
+    Vehicle 2 (EV): 0 -> 12 -> 15 -> 23 -> 16 -> 0
+      Distance: 163 mi, Cost: $348, Stops: 4
+    Vehicle 6 (GV): 0 -> 6 -> 21 -> 7 -> 10 -> 0
+      Distance: 143 mi, Cost: $348, Stops: 4
+    Vehicle 7 (GV): 0 -> 13 -> 22 -> 14 -> 0
+      Distance: 100 mi, Cost: $247, Stops: 3
+    Vehicle 8 (GV): 0 -> 9 -> 8 -> 2 -> 1 -> 0
+      Distance: 165 mi, Cost: $385, Stops: 4
+
+REGION 3 (Depot ID: 4908):
+----------------------------------------
+  Objective: $1860
+  Total Distance: 832 miles
+
+  Routes:
+    Vehicle 0 (EV): 0 -> 11 -> 12 -> 13 -> 0
+      Distance: 161 mi, Cost: $343, Stops: 3
+    Vehicle 1 (EV): 0 -> 8 -> 15 -> 7 -> 0
+      Distance: 166 mi, Cost: $336, Stops: 3
+    Vehicle 2 (EV): 0 -> 16 -> 1 -> 2 -> 0
+      Distance: 166 mi, Cost: $345, Stops: 3
+    Vehicle 4 (GV): 0 -> 9 -> 14 -> 10 -> 0
+      Distance: 141 mi, Cost: $357, Stops: 3
+    Vehicle 5 (GV): 0 -> 4 -> 3 -> 0
+      Distance: 102 mi, Cost: $244, Stops: 2
+    Vehicle 7 (GV): 0 -> 6 -> 5 -> 0
+      Distance: 96 mi, Cost: $235, Stops: 2

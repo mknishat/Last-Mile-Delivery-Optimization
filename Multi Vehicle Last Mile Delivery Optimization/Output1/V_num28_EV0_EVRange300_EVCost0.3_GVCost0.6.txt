@@ -1,0 +1,224 @@
+Objective: 8581Route for vehicle 0:
+ 0 ->  58 ->  55 -> 0
+Distance of the route: 182m
+Total Cost of the route: 333m
+Route for vehicle 1:
+ 0 ->  59 ->  60 -> 0
+Distance of the route: 214m
+Total Cost of the route: 372m
+Route for vehicle 2:
+ 0 ->  65 ->  57 -> 0
+Distance of the route: 190m
+Total Cost of the route: 341m
+Route for vehicle 3:
+ 0 ->  64 ->  61 -> 0
+Distance of the route: 220m
+Total Cost of the route: 384m
+Route for vehicle 4:
+ 0 ->  53 ->  56 -> 0
+Distance of the route: 175m
+Total Cost of the route: 323m
+Route for vehicle 5:
+ 0 ->  5 ->  3 -> 0
+Distance of the route: 156m
+Total Cost of the route: 297m
+Route for vehicle 6:
+ 0 ->  33 ->  54 ->  51 -> 0
+Distance of the route: 178m
+Total Cost of the route: 358m
+Route for vehicle 7:
+ 0 ->  49 ->  48 -> 0
+Distance of the route: 154m
+Total Cost of the route: 291m
+Route for vehicle 8:
+ 0 ->  1 ->  2 -> 0
+Distance of the route: 183m
+Total Cost of the route: 337m
+Route for vehicle 9:
+ 0 ->  47 ->  52 -> 0
+Distance of the route: 151m
+Total Cost of the route: 287m
+Route for vehicle 10:
+ 0 ->  62 ->  19 -> 0
+Distance of the route: 144m
+Total Cost of the route: 288m
+Route for vehicle 11:
+ 0 ->  41 ->  39 ->  66 -> 0
+Distance of the route: 143m
+Total Cost of the route: 312m
+Route for vehicle 12:
+ 0 ->  70 ->  28 ->  29 -> 0
+Distance of the route: 159m
+Total Cost of the route: 347m
+Route for vehicle 13:
+ 0 ->  36 ->  37 ->  46 -> 0
+Distance of the route: 167m
+Total Cost of the route: 351m
+Route for vehicle 14:
+ 0 ->  6 ->  4 ->  8 -> 0
+Distance of the route: 168m
+Total Cost of the route: 348m
+Route for vehicle 15:
+ 0 ->  43 ->  44 ->  50 -> 0
+Distance of the route: 166m
+Total Cost of the route: 343m
+Route for vehicle 16:
+ 0 ->  24 ->  38 ->  30 -> 0
+Distance of the route: 135m
+Total Cost of the route: 306m
+Route for vehicle 17:
+ 0 ->  26 ->  27 ->  25 -> 0
+Distance of the route: 133m
+Total Cost of the route: 308m
+Route for vehicle 18:
+ 0 ->  16 ->  17 ->  18 -> 0
+Distance of the route: 159m
+Total Cost of the route: 339m
+Route for vehicle 19:
+ 0 ->  21 ->  35 ->  20 -> 0
+Distance of the route: 132m
+Total Cost of the route: 301m
+Route for vehicle 20:
+ 0 ->  34 ->  63 ->  45 -> 0
+Distance of the route: 149m
+Total Cost of the route: 323m
+Route for vehicle 21:
+ 0 ->  68 ->  40 ->  42 -> 0
+Distance of the route: 169m
+Total Cost of the route: 349m
+Route for vehicle 22:
+ 0 ->  69 ->  12 ->  15 -> 0
+Distance of the route: 122m
+Total Cost of the route: 284m
+Route for vehicle 23:
+ 0 -> 0
+Distance of the route: 0m
+Total Cost of the route: 0m
+Route for vehicle 24:
+ 0 ->  10 ->  7 ->  9 -> 0
+Distance of the route: 132m
+Total Cost of the route: 311m
+Route for vehicle 25:
+ 0 ->  32 ->  31 ->  23 -> 0
+Distance of the route: 119m
+Total Cost of the route: 284m
+Route for vehicle 26:
+ 0 ->  11 ->  13 -> 0
+Distance of the route: 78m
+Total Cost of the route: 195m
+Route for vehicle 27:
+ 0 ->  14 ->  22 ->  67 -> 0
+Distance of the route: 106m
+Total Cost of the route: 269m
+Objective: 8581Route for vehicle 0:
+ 0 ->  58 ->  55 -> 0
+Distance of the route: 182m
+Total Cost of the route: 333m
+Route for vehicle 1:
+ 0 ->  59 ->  60 -> 0
+Distance of the route: 214m
+Total Cost of the route: 372m
+Route for vehicle 2:
+ 0 ->  65 ->  57 -> 0
+Distance of the route: 190m
+Total Cost of the route: 341m
+Route for vehicle 3:
+ 0 ->  64 ->  61 -> 0
+Distance of the route: 220m
+Total Cost of the route: 384m
+Route for vehicle 4:
+ 0 ->  53 ->  56 -> 0
+Distance of the route: 175m
+Total Cost of the route: 323m
+Route for vehicle 5:
+ 0 ->  5 ->  3 -> 0
+Distance of the route: 156m
+Total Cost of the route: 297m
+Route for vehicle 6:
+ 0 ->  33 ->  54 ->  51 -> 0
+Distance of the route: 178m
+Total Cost of the route: 358m
+Route for vehicle 7:
+ 0 ->  49 ->  48 -> 0
+Distance of the route: 154m
+Total Cost of the route: 291m
+Route for vehicle 8:
+ 0 ->  1 ->  2 -> 0
+Distance of the route: 183m
+Total Cost of the route: 337m
+Route for vehicle 9:
+ 0 ->  47 ->  52 -> 0
+Distance of the route: 151m
+Total Cost of the route: 287m
+Route for vehicle 10:
+ 0 ->  62 ->  19 -> 0
+Distance of the route: 144m
+Total Cost of the route: 288m
+Route for vehicle 11:
+ 0 ->  41 ->  39 ->  66 -> 0
+Distance of the route: 143m
+Total Cost of the route: 312m
+Route for vehicle 12:
+ 0 ->  70 ->  28 ->  29 -> 0
+Distance of the route: 159m
+Total Cost of the route: 347m
+Route for vehicle 13:
+ 0 ->  36 ->  37 ->  46 -> 0
+Distance of the route: 167m
+Total Cost of the route: 351m
+Route for vehicle 14:
+ 0 ->  6 ->  4 ->  8 -> 0
+Distance of the route: 168m
+Total Cost of the route: 348m
+Route for vehicle 15:
+ 0 ->  43 ->  44 ->  50 -> 0
+Distance of the route: 166m
+Total Cost of the route: 343m
+Route for vehicle 16:
+ 0 ->  24 ->  38 ->  30 -> 0
+Distance of the route: 135m
+Total Cost of the route: 306m
+Route for vehicle 17:
+ 0 ->  26 ->  27 ->  25 -> 0
+Distance of the route: 133m
+Total Cost of the route: 308m
+Route for vehicle 18:
+ 0 ->  16 ->  17 ->  18 -> 0
+Distance of the route: 159m
+Total Cost of the route: 339m
+Route for vehicle 19:
+ 0 ->  21 ->  35 ->  20 -> 0
+Distance of the route: 132m
+Total Cost of the route: 301m
+Route for vehicle 20:
+ 0 ->  34 ->  63 ->  45 -> 0
+Distance of the route: 149m
+Total Cost of the route: 323m
+Route for vehicle 21:
+ 0 ->  68 ->  40 ->  42 -> 0
+Distance of the route: 169m
+Total Cost of the route: 349m
+Route for vehicle 22:
+ 0 ->  69 ->  12 ->  15 -> 0
+Distance of the route: 122m
+Total Cost of the route: 284m
+Route for vehicle 23:
+ 0 -> 0
+Distance of the route: 0m
+Total Cost of the route: 0m
+Route for vehicle 24:
+ 0 ->  10 ->  7 ->  9 -> 0
+Distance of the route: 132m
+Total Cost of the route: 311m
+Route for vehicle 25:
+ 0 ->  32 ->  31 ->  23 -> 0
+Distance of the route: 119m
+Total Cost of the route: 284m
+Route for vehicle 26:
+ 0 ->  11 ->  13 -> 0
+Distance of the route: 78m
+Total Cost of the route: 195m
+Route for vehicle 27:
+ 0 ->  14 ->  22 ->  67 -> 0
+Distance of the route: 106m
+Total Cost of the route: 269m

@@ -1,0 +1,445 @@
+{
+  "config": {
+    "num_depots": 3,
+    "num_vehicles_per_depot": 10,
+    "num_ev_per_depot": 0,
+    "ev_range": 200,
+    "gv_range": 300,
+    "EV_cost": 0.25,
+    "GV_cost": 0.5
+  },
+  "regions": [
+    {
+      "region_id": 1,
+      "depot_id": 4191,
+      "objective": 2413,
+      "routes": [
+        {
+          "vehicle_id": 0,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            28,
+            25,
+            26,
+            27,
+            21,
+            0
+          ],
+          "distance": 195,
+          "cost": 418,
+          "num_stops": 5
+        },
+        {
+          "vehicle_id": 1,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            22,
+            29,
+            24,
+            23,
+            20,
+            0
+          ],
+          "distance": 200,
+          "cost": 421,
+          "num_stops": 5
+        },
+        {
+          "vehicle_id": 2,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 3,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            9,
+            7,
+            8,
+            4,
+            6,
+            0
+          ],
+          "distance": 196,
+          "cost": 410,
+          "num_stops": 5
+        },
+        {
+          "vehicle_id": 4,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            16,
+            30,
+            17,
+            18,
+            19,
+            0
+          ],
+          "distance": 172,
+          "cost": 366,
+          "num_stops": 5
+        },
+        {
+          "vehicle_id": 5,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 6,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 7,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            3,
+            1,
+            2,
+            5,
+            0
+          ],
+          "distance": 209,
+          "cost": 394,
+          "num_stops": 4
+        },
+        {
+          "vehicle_id": 8,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            11,
+            10,
+            15,
+            14,
+            13,
+            12,
+            0
+          ],
+          "distance": 168,
+          "cost": 404,
+          "num_stops": 6
+        },
+        {
+          "vehicle_id": 9,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        }
+      ],
+      "total_distance": 1140,
+      "total_cost": 2413
+    },
+    {
+      "region_id": 2,
+      "depot_id": 5985,
+      "objective": 2173,
+      "routes": [
+        {
+          "vehicle_id": 0,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 1,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 2,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 3,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 4,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            11,
+            4,
+            3,
+            5,
+            0
+          ],
+          "distance": 184,
+          "cost": 410,
+          "num_stops": 4
+        },
+        {
+          "vehicle_id": 5,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            17,
+            18,
+            19,
+            20,
+            0
+          ],
+          "distance": 181,
+          "cost": 394,
+          "num_stops": 4
+        },
+        {
+          "vehicle_id": 6,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            12,
+            15,
+            23,
+            16,
+            0
+          ],
+          "distance": 163,
+          "cost": 389,
+          "num_stops": 4
+        },
+        {
+          "vehicle_id": 7,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            6,
+            21,
+            7,
+            10,
+            0
+          ],
+          "distance": 143,
+          "cost": 348,
+          "num_stops": 4
+        },
+        {
+          "vehicle_id": 8,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            9,
+            8,
+            2,
+            1,
+            0
+          ],
+          "distance": 165,
+          "cost": 385,
+          "num_stops": 4
+        },
+        {
+          "vehicle_id": 9,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            13,
+            22,
+            14,
+            0
+          ],
+          "distance": 100,
+          "cost": 247,
+          "num_stops": 3
+        }
+      ],
+      "total_distance": 936,
+      "total_cost": 2173
+    },
+    {
+      "region_id": 3,
+      "depot_id": 4908,
+      "objective": 1982,
+      "routes": [
+        {
+          "vehicle_id": 0,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 1,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            8,
+            15,
+            7,
+            0
+          ],
+          "distance": 166,
+          "cost": 377,
+          "num_stops": 3
+        },
+        {
+          "vehicle_id": 2,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 3,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 4,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            0
+          ],
+          "distance": 0,
+          "cost": 0,
+          "num_stops": 0
+        },
+        {
+          "vehicle_id": 5,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            11,
+            12,
+            13,
+            0
+          ],
+          "distance": 161,
+          "cost": 383,
+          "num_stops": 3
+        },
+        {
+          "vehicle_id": 6,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            16,
+            1,
+            2,
+            0
+          ],
+          "distance": 166,
+          "cost": 386,
+          "num_stops": 3
+        },
+        {
+          "vehicle_id": 7,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            4,
+            3,
+            0
+          ],
+          "distance": 102,
+          "cost": 244,
+          "num_stops": 2
+        },
+        {
+          "vehicle_id": 8,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            6,
+            5,
+            0
+          ],
+          "distance": 96,
+          "cost": 235,
+          "num_stops": 2
+        },
+        {
+          "vehicle_id": 9,
+          "vehicle_type": "GV",
+          "route": [
+            0,
+            9,
+            14,
+            10,
+            0
+          ],
+          "distance": 141,
+          "cost": 357,
+          "num_stops": 3
+        }
+      ],
+      "total_distance": 832,
+      "total_cost": 1982
+    }
+  ],
+  "summary": {
+    "total_objective": 6568,
+    "total_distance": 2908,
+    "total_cost": 6568,
+    "total_active_vehicles": 18
+  }
+}
